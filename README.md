@@ -8,10 +8,10 @@ Odkurzacz porusza się po planszy 25x25, a jego zadaniem jest posprzątanie zaba
 
 Wykorzystane metody uczenia i rozwiazywania problemow:
   
-  uczenie drzew decyzyjnych (Joanna Wetesko)
-  przeszukiwanie przestrzeni stanów - algorytm A* (Antonina Krawczyk)
-  przeszukiwanie przestrzeni stanów - algorytm IDA* (Sebastian Gradys)
-  sieci neuronowe (Maciej Biesek)
-  algorytm genetyczny (Adam Klimczyk)
+    uczenie drzew decyzyjnych (Joanna Wetesko)
+    przeszukiwanie przestrzeni stanów - algorytm A* (Antonina Krawczyk)
+    przeszukiwanie przestrzeni stanów - algorytm IDA* (Sebastian Gradys)
+    sieci neuronowe (Maciej Biesek)
+    algorytm genetyczny (Adam Klimczyk)
 
 
